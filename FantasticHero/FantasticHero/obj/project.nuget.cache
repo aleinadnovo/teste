@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "iWwOzrWsTzmcF/Gv1ikD0OR+m5OVXdVHjBBEGtSX6GqHZSHA2FgRI5baDgsOKFyWX+trldgXz5x9Zp7PLSzqOg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\NOD1OVR\\Desktop\\FantasticHero\\FantasticHero\\FantasticHero.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\NOD1OVR\\.nuget\\packages\\autofac\\6.3.0\\autofac.6.3.0.nupkg.sha512",
+    "C:\\Users\\NOD1OVR\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

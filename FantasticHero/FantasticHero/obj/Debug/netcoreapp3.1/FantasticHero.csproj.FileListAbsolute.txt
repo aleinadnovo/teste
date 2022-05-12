@@ -1,0 +1,17 @@
+C:\Users\NOD1OVR\Desktop\FantasticHero\FantasticHero\bin\Debug\netcoreapp3.1\FantasticHero.exe
+C:\Users\NOD1OVR\Desktop\FantasticHero\FantasticHero\bin\Debug\netcoreapp3.1\FantasticHero.deps.json
+C:\Users\NOD1OVR\Desktop\FantasticHero\FantasticHero\bin\Debug\netcoreapp3.1\FantasticHero.runtimeconfig.json
+C:\Users\NOD1OVR\Desktop\FantasticHero\FantasticHero\bin\Debug\netcoreapp3.1\FantasticHero.runtimeconfig.dev.json
+C:\Users\NOD1OVR\Desktop\FantasticHero\FantasticHero\bin\Debug\netcoreapp3.1\FantasticHero.dll
+C:\Users\NOD1OVR\Desktop\FantasticHero\FantasticHero\bin\Debug\netcoreapp3.1\FantasticHero.pdb
+C:\Users\NOD1OVR\Desktop\FantasticHero\FantasticHero\obj\Debug\netcoreapp3.1\FantasticHero.csproj.AssemblyReference.cache
+C:\Users\NOD1OVR\Desktop\FantasticHero\FantasticHero\obj\Debug\netcoreapp3.1\FantasticHero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NOD1OVR\Desktop\FantasticHero\FantasticHero\obj\Debug\netcoreapp3.1\FantasticHero.AssemblyInfoInputs.cache
+C:\Users\NOD1OVR\Desktop\FantasticHero\FantasticHero\obj\Debug\netcoreapp3.1\FantasticHero.AssemblyInfo.cs
+C:\Users\NOD1OVR\Desktop\FantasticHero\FantasticHero\obj\Debug\netcoreapp3.1\FantasticHero.csproj.CoreCompileInputs.cache
+C:\Users\NOD1OVR\Desktop\FantasticHero\FantasticHero\obj\Debug\netcoreapp3.1\FantasticHero.dll
+C:\Users\NOD1OVR\Desktop\FantasticHero\FantasticHero\obj\Debug\netcoreapp3.1\FantasticHero.pdb
+C:\Users\NOD1OVR\Desktop\FantasticHero\FantasticHero\obj\Debug\netcoreapp3.1\FantasticHero.genruntimeconfig.cache
+C:\Users\NOD1OVR\Desktop\FantasticHero\FantasticHero\bin\Debug\netcoreapp3.1\Autofac.dll
+C:\Users\NOD1OVR\Desktop\FantasticHero\FantasticHero\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\NOD1OVR\Desktop\FantasticHero\FantasticHero\obj\Debug\netcoreapp3.1\FantasticHero.csproj.CopyComplete
